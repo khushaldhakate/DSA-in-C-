@@ -12,6 +12,7 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 | ------- |
 | [0001-two-sum](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,9 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
