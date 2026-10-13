@@ -14,6 +14,7 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 | [0015-3sum](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -26,6 +27,7 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 | [0015-3sum](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -33,6 +35,15 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 | ------- |
 | [0015-3sum](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0977-squares-of-a-sorted-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
