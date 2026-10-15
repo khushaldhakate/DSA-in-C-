@@ -17,11 +17,13 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 | [0075-sort-colors](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0001-two-sum) |
+| [0904-fruit-into-baskets](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +57,7 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
