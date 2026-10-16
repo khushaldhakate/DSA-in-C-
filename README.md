@@ -23,6 +23,7 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
@@ -56,10 +57,15 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0209-minimum-size-subarray-sum) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
