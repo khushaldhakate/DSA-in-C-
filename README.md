@@ -7,6 +7,7 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0202-happy-number) |
 ## Array
 |  |
 | ------- |
@@ -28,6 +29,7 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 | [0076-minimum-window-substring](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
@@ -40,6 +42,7 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 | [0088-merge-sorted-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -91,6 +94,7 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 | ------- |
 | [0141-linked-list-cycle](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
