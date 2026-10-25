@@ -17,6 +17,7 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 | [0075-sort-colors](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0287-find-the-duplicate-number) |
 | [0904-fruit-into-baskets](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -39,6 +40,7 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 | [0088-merge-sorted-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -60,6 +62,7 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -88,4 +91,13 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 | ------- |
 | [0141-linked-list-cycle](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
