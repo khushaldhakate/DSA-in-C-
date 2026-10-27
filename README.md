@@ -15,6 +15,7 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 | [0015-3sum](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0209-minimum-size-subarray-sum) |
@@ -104,4 +105,12 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
