@@ -18,6 +18,7 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 | [0053-maximum-subarray](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0287-find-the-duplicate-number) |
 | [0904-fruit-into-baskets](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0904-fruit-into-baskets) |
@@ -113,4 +114,5 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
