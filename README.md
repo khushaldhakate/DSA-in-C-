@@ -48,6 +48,7 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 | [0202-happy-number](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -87,6 +88,7 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0076-minimum-window-substring) |
+| [0392-is-subsequence](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0424-longest-repeating-character-replacement) |
 ## Linked List
 |  |
@@ -117,4 +119,5 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 | ------- |
 | [0053-maximum-subarray](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
