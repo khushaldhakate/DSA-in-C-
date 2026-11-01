@@ -22,6 +22,7 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 | [0209-minimum-size-subarray-sum](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0303-range-sum-query-immutable) |
 | [0904-fruit-into-baskets](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/1480-running-sum-of-1d-array) |
@@ -84,6 +85,7 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/1480-running-sum-of-1d-array) |
 ## String
 |  |
@@ -122,4 +124,8 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 | [0053-maximum-subarray](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0392-is-subsequence) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
