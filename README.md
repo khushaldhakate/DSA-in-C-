@@ -24,6 +24,7 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 | [0287-find-the-duplicate-number](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0287-find-the-duplicate-number) |
 | [0904-fruit-into-baskets](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0977-squares-of-a-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0209-minimum-size-subarray-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/1480-running-sum-of-1d-array) |
 ## String
 |  |
 | ------- |
