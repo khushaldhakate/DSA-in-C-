@@ -1,49 +1,45 @@
+#include <vector>
+
 class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
+       // 2 step
 
-        vector<vector<int>> res;
-        int n = intervals.size();
-        bool insert = false;
+       // 1 - insert in correct spot
 
-        // Insertion
-        for(int i = 0; i < n; i++) {
-            if(insert == false && intervals[i][0] >= newInterval[0]) {
-                res.push_back(newInterval);
-                insert = true;
+       bool inserted = false;
+
+        for (int i = 0; i < intervals.size(); i++) {
+            if (newInterval[0] < intervals[i][0]) {
+                intervals.insert(intervals.begin() + i, newInterval);
+                inserted = true;
+                break;
             }
-
-            res.push_back(intervals[i]);
         }
 
-        if(insert == false) {
-            res.push_back(newInterval);
+        if (!inserted) {
+            intervals.push_back(newInterval);
         }
 
-        // Overlapping
-        int start = res[0][0];
-        int end = res[0][1];
 
-        int n1 = res.size();
-        vector<vector<int>> ans;
 
-        for(int i = 1; i < n1; i++) {
+       // 2 - merge overlapping ones 
 
-            int s = res[i][0];
-            int e = res[i][1];
+       vector<int> current = intervals[0]; 
+       vector<vector<int>> output;
 
-            if(end >= s) {
-                end = max(end, e);
+        for (int i = 1; i < intervals.size(); i++) {
+            if (current[1] >= intervals[i][0]) {
+                current[1] = std::max(current[1], intervals[i][1]);
             }
             else {
-                ans.push_back({start, end});
-                start = s;
-                end = e;
+                output.push_back(current);
+                current = intervals[i];
             }
         }
 
-        ans.push_back({start, end});
+        output.push_back(current);
 
-        return ans;
+        return output;
     }
 };
