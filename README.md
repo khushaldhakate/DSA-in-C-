@@ -27,6 +27,7 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 | [0303-range-sum-query-immutable](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0303-range-sum-query-immutable) |
 | [0904-fruit-into-baskets](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0986-interval-list-intersections) |
 | [1480-running-sum-of-1d-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 | [0287-find-the-duplicate-number](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0986-interval-list-intersections) |
 ## Sorting
 |  |
 | ------- |
@@ -132,4 +134,8 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0303-range-sum-query-immutable) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
