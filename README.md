@@ -102,6 +102,7 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 | [0076-minimum-window-substring](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0076-minimum-window-substring) |
 | [0392-is-subsequence](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0424-longest-repeating-character-replacement) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/khushaldhakate/DSA-in-C-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -145,4 +146,8 @@ DSA in C++ — A collection of Data Structures and Algorithms problems solved in
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/khushaldhakate/DSA-in-C-/tree/master/0435-non-overlapping-intervals) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/khushaldhakate/DSA-in-C-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
